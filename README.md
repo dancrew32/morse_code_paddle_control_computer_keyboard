@@ -1,4 +1,4 @@
-# morse_code_paddle_control
+# Use your Morse Code / CW Paddles to control your computer with a VBand USB Paddle Adapter
 
 CW/Morse Code 2-paddle keyer controlling keyboard input (tested on windows)
 
